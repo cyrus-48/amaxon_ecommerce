@@ -1,0 +1,120 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@IvanZeroi96 
+SeekopEnterprise
+/
+SeekopMobile
+Private
+Cannot fork because forking is disabled.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+SeekopMobile/.gitignore
+@erickrodriguez21
+erickrodriguez21 Configurando archivo .gitignore
+Latest commit 4eb4303 2 weeks ago
+ History
+ 1 contributor
+90 lines (72 sloc)  1.11 KB
+
+build/
+
+.dart_tool/
+.packages
+pubspec.lock # library relate lock files
+
+**/doc/API/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+.classpath
+.project
+.settings/
+.vscode/
+
+**/android/**/gradle-wrapper.jar
+.gradle/
+**/android/captures/
+**/android/gradlew.bat
+**/android/gradlew
+**/android/local.properties
+**/android/key.properties
+*.jks
+
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/ephemeral
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+**/ios/**/*sync/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+.idea/
+.vagrant/
+.sconsign.dblite
+.svn/
+
+*.swp
+profile
+
+DerivedData/
+
+.generated/
+
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+
+xcuserdata
+
+*.moved-aside
+
+*.pyc
+*sync/
+Icon?
+.tags*
+
+build/
+.android/
+.ios/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
