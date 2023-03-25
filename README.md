@@ -44,18 +44,18 @@ https://fakestoreapi.com/
  
 ## Images
 ## flash screen
-![Thumbnail1](assets/thumbnail/image1.png)
+![Thumbnail1](assets/thumbnail/flashscreen.jpeg)
  
-## signup 
-![Thumbnail1](assets/thumbnail/image4.png)
-## login
-![Thumbnail1](assets/thumbnail/image3.png)
-## signout
-![Thumbnail1](assets/thumbnail/image5.png)
-## products
-![Thumbnail1](assets/thumbnail/image6.png)
+## signup screen
+![Thumbnail1](assets/thumbnail/signup.jpeg)
+## login screen 
+![Thumbnail1](assets/thumbnail/login.jpeg)
+## signout screen
+![Thumbnail1](assets/thumbnail/logout.jpeg)
+## products screen
+![Thumbnail1](assets/thumbnail/products_screen.jpeg)
 ## product_detail
-![Thumbnail1](assets/thumbnail/image7.png)
+![Thumbnail1](assets/thumbnail/product_screen.jpeg)
 ## cart (coming soon)
 ## wishlist (coming soon)
 
