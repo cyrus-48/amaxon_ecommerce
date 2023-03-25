@@ -45,8 +45,7 @@ https://fakestoreapi.com/
 ## Images
 ## flash screen
 ![Thumbnail1](assets/thumbnail/image1.png)
-## first screen
-![Thumbnail1](assets/thumbnail/image2.png)
+ 
 ## signup 
 ![Thumbnail1](assets/thumbnail/image4.png)
 ## login
