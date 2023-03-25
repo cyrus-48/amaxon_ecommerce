@@ -45,7 +45,8 @@ https://fakestoreapi.com/
 ## Images
 ## flash screen
 ![Thumbnail1](assets/thumbnail/flashscreen.jpeg)
- 
+<img src="path/to/image.png" alt="Image Description" width="200" height="300" />
+
 ## signup screen
 ![Thumbnail1](assets/thumbnail/signup.jpeg)
 ## login screen 
